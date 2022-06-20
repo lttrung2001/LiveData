@@ -12,6 +12,11 @@
         android:text="ADD USER"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btn_sort"
+        android:text="SORT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rcv_user"
         android:layout_marginEnd="10dp"
